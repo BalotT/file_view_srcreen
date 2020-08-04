@@ -37,7 +37,7 @@
                     :class="{'active-li':index===viewIndex}"
                     @click="changeBigImg(index)">
                     <img v-if="item.type==='image'" :src="item.url" alt="">
-                    <img v-if="item.type==='pdf'" src="../assets/pdf.png" alt="">
+                    <img v-if="item.type==='pdf'" src="../../../examples/assets/pdf.png" alt="">
                 </li>
             </ul>
         </footer>

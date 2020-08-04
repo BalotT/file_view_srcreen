@@ -1,6 +1,6 @@
 {
     "name": "screen_view_file",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "图片查看组件",
     "private": false,
     "main": "lib/fileView.umd.min.js",
